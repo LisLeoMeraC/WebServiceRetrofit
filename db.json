@@ -1,0 +1,47 @@
+[
+   {
+      "usuario": "lister",
+      "contraseña": "lister99",
+      "nombre": "Lister Leonardo Mera Carbo",
+      "imagen": "https://image.freepik.com/free-photo/selfie-portrait-videocall_23-2149186125.jpg",
+      "optionsUser": [
+         {
+            "opcion": "VerNoticias"
+         },
+         {
+            "opcion": "Ver resultados de futbol"
+         },
+         {
+            "opcion": "Notificaciones"
+         },
+         {
+            "opcion": "AdministrarPartidos"
+         },
+         {
+            "opcion": "Estadísticas"
+         }
+      ],
+      "rol": "administrador"
+   },
+   {
+      "usuario": "amgela",
+      "contraseña": "angela123",
+      "nombre": "AngelaVera",
+      "imagen": "https://image.freepik.com/free-photo/portrait-smiling-business-woman-isolated-white-wall_231208-12430.jpg",
+      "optionsUser": [
+         {
+            "opcion": "Ver mis equipos"
+         },
+         {
+            "opcion": "MisPartidos"
+         },
+         {
+            "opcion": "Notificaciones de mis equipos"
+         },
+         {
+            "opcion": "Estadísticas"
+         }
+      ],
+      "rol": "usuario"
+   }
+]
